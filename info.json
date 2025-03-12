@@ -1,0 +1,14 @@
+{
+  "name": "lex-aircraft-grayscale",
+  "version": "1.0.0",
+  "factorio_version": "2.0",
+  "title": "Lex's Aircraft - Grayscale recolor",
+  "author": "Lexsus, MsBinaryLily",
+  "contact": "Discord SwiftLex#5249, ms.binary.lily",
+  "description": "A graphics only mod that recolors the Lex's gunships to be dark greyscale with accents rather then green. That's it.",
+  "homepage": "",
+  "dependencies": [
+    "base",
+    "lex-aircraft"
+  ]
+}
